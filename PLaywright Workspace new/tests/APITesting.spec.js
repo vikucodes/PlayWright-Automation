@@ -56,7 +56,16 @@ test.describe('API Testing Examples', () => {
 
         console.log('Status Code: ', response.status());
 
+
+
+
+        
+
         expect(response.status()).toBe(204);
     });
 
 });
+
+
+
+//paste API all content here class wise
